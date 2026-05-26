@@ -1,0 +1,28 @@
+# University Time Table Generator
+
+## Description
+
+This project automatically generates university timetables while avoiding scheduling conflicts between classrooms, faculty, and subjects.
+
+## Features
+
+* Automatic timetable generation
+* Faculty scheduling
+* Classroom allocation
+* Conflict detection
+
+## Technologies Used
+
+* Python / Java / JavaScript
+* HTML, CSS
+* Database
+
+## How to Run
+
+1. Install dependencies
+2. Run the project
+3. Open the application
+
+## Team Members
+
+* Your Name
