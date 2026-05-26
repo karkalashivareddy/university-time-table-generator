@@ -24,5 +24,6 @@ This project automatically generates university timetables while avoiding schedu
 3. Open the application
 
 ## Team Members
-
-* Your Name
+SHIVA REDDY
+HARIVIKASH
+NAVADEEP
