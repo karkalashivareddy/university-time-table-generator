@@ -41,12 +41,10 @@ The generator prints one timetable for each configured batch. The source tree ha
 project/
   MODULES.py                 Subject, Venue, and Batch data classes
   DATA.py                    configured courses, rooms, batches, and slots
-  schedular.py               deterministic heuristic scheduler
-  CONSTRAINS.py              local conflict validation used by the scheduler
+  scheduler.py               deterministic heuristic scheduler
+  CONSTRAINTS.py             local conflict validation used by the scheduler
   validator.py               optional global integrity checks
   GENERATE_TIME_TABLE.py     console entrypoint and renderer
-  GITN.py                    additional availability helpers
-  MAIN.py                    standalone data-class exercise retained in the repo
 ```
 
 ## Engineering notes
