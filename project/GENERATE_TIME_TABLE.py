@@ -1,4 +1,4 @@
-from project import DATA, schedular
+from project import DATA, scheduler
 
 
 def render_table(schedules):
@@ -32,7 +32,7 @@ def render_table(schedules):
 
 if __name__ == "__main__":
     print("Generating Timetable...")
-    data = schedular.execute_scheduler()
+    data = scheduler.execute_scheduler()
 
     if data:
         render_table(data)
