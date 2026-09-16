@@ -1,4 +1,4 @@
-from MODULES import Subject, Venue, Batch
+from .MODULES import Subject, Venue, Batch
 
 # Actual Semester Courses
 # Mapping your 'Course' to our 'Subject' class

@@ -1,4 +1,4 @@
-from DATA import consecutive_blocks
+from .DATA import consecutive_blocks
 
 def process_schedule_validation(existing_schedule, weekday, timeslots, venue_obj, group_id, course_code, mode_type, remaining_count, instructor_id=""):
     for record in existing_schedule:
